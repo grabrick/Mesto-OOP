@@ -14,6 +14,4 @@
 - Grid Laout
 - Flexbox
 - Адаптивная и резиновая верстка
-- Работа с DOM деревом с помощью JavaScript
-
-Посмотреть работу можно по ссылке - https://oldmilky.github.io/mesto/  .
+- Работа с DOM деревом с помощью JavaScript.
