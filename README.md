@@ -1,17 +1,17 @@
-# Проект 4: Место
+# Project 4: Location
 
-### Обзор
+### Review
 
-Данный проект является проектной работой курса **Базовый JavaScript и работа с браузером**.
+This project is the project work of the course **Basic JavaScript and working with the browser**.
 
-Цель проекта изучить и закрепить на практике основы работы с DOM деревом страницы.
+The goal of the project is to learn and put into practice the basics of working with the DOM tree of the page.
 
-Проектная работа выполнена с применением следующих навыков:
-- HTML верстка
-- Стилизация страницы с помощь CSS
-- Работа с системой контроля версий Git
-- Применение нейминга и файловой структуры методологии БЭМ
+The project work is carried out using the following skills:
+- HTML layout
+- Styling the page with CSS
+- Work with the Git version control system
+- Application of naming and file structure of BEM methodology
 - Grid Laout
 - Flexbox
-- Адаптивная и резиновая верстка
-- Работа с DOM деревом с помощью JavaScript.
+- Adaptive and rubber layout
+- Working with the DOM tree using JavaScript.
